@@ -1,0 +1,47 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-attributes>
+      <mj-all font-family="Open Sans" padding="0" align="center" color="#5E5E5E"></mj-all>
+      <mj-class name="header" color="#FFF" text-transform="uppercase"></mj-class>
+      
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container width="640">
+
+      <mj-section background-color="#ffffff" full-width="full-width">
+        <mj-column>
+          <mj-image  src="https://firebasestorage.googleapis.com/v0/b/falcon-image.appspot.com/o/bessa%2F0001.jpg?alt=media&token=a6239d7c-0c95-4444-aabe-22bdfb599dd6"></mj-image>
+          </mj-column>
+      </mj-section>
+
+
+
+      <mj-section background-color="#ffffff" full-width="full-width">
+        <mj-column>
+          <mj-image src="https://firebasestorage.googleapis.com/v0/b/falcon-image.appspot.com/o/bessa%2F0002.jpg?alt=media&token=f5cb4c4c-3152-4c6c-be96-b07124e61645" padding-bottom="14"></mj-image>
+       </mj-column>
+      </mj-section>
+ 
+
+
+ 
+      <mj-section background-color="#ffffff" full-width="full-width">
+        <mj-column>
+          <mj-image src="https://firebasestorage.googleapis.com/v0/b/falcon-image.appspot.com/o/bessa%2F0003.jpg?alt=media&token=e53b7ff3-8ac9-4f14-bb9f-18f2c63935ee" padding-bottom="14"></mj-image>
+        </mj-column>
+      </mj-section>
+       
+        
+        
+      <mj-section background-color="#ffffff" full-width="full-width">
+        <mj-column>
+          <mj-image src="https://firebasestorage.googleapis.com/v0/b/falcon-image.appspot.com/o/bessa%2F0004.jpg?alt=media&token=54615b78-b9d5-4969-9a13-1a8bda6ac1f7" padding-bottom="14"></mj-image>
+        </mj-column>
+      </mj-section>
+
+
+    </mj-container>
+  </mj-body>
+</mjml>
